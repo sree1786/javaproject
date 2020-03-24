@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class AppTest 
 {
-	@Test
+	@Test1
 	public void testApp()
     {
         assertEquals(0,new App().calculateSomething());
